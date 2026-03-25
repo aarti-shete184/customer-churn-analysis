@@ -1,14 +1,17 @@
 # Customer Churn Analysis
 
 ## Objective
-Analyze customer data to identify churn patterns.
+Analyze customer data to identify churn patterns and key factors affecting customer retention.
 
 ## Tools Used
-Python, Pandas, Matplotlib
+- Python
+- Pandas
+- Matplotlib
 
 ## Key Insights
-- Higher charges → more churn
-- Lower tenure → more churn
+- Customers with higher monthly charges are more likely to churn
+- Customers with lower tenure tend to leave early
+- Churn trends help in identifying at-risk customers
 
 ## Conclusion
-Helps understand customer behavior and improve retention.
+This project demonstrates data cleaning, analysis, and visualization to derive business insights and support decision-making.
